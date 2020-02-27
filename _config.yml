@@ -1,11 +1,11 @@
 # Site settings
 author: Dwight Nodolf
-title: 
+title: SecretHandshake
 header-img: img/home-bg.png
 email: dnodolf@gmail.com
 copyright_name: Dwight Nodolf
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The chef who wanted to code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dnodolf1212
