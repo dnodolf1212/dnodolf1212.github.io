@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "From Artist, to chef to code"
-date:       2020-02-27 21:53:04 +0000
+date:       2020-02-27 16:53:05 -0500
 permalink:  from_artist_to_chef_to_code
 ---
 
